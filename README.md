@@ -1,5 +1,7 @@
 # internee.pk — Immersive Redesign
 
+**🔗 Live site:** [internee-pk-redesign-khaki.vercel.app](https://internee-pk-redesign-khaki.vercel.app)
+
 A React-based redesign of [internee.pk](https://internee.pk), built with a sophisticated dark theme, real Three.js 3D scenes that respond to scroll and pointer, and a fully responsive layout. Submitted for **Internship Task 1**.
 
 > **Stack:** Vite · React 18 · Three.js + React Three Fiber + Drei · Framer Motion · Lenis (smooth scroll) · Tailwind CSS · Lucide icons
